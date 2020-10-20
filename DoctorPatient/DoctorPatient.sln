@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoctorPatient", "DoctorPatient.csproj", "{AD4CD432-1463-4FDB-A630-60849F3423EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorPatientUnitTesting", "..\DoctorPatientUnitTesting\DoctorPatientUnitTesting.csproj", "{EC81550C-E646-4EB7-AAEE-34BA023C8F04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4CD432-1463-4FDB-A630-60849F3423EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4CD432-1463-4FDB-A630-60849F3423EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4CD432-1463-4FDB-A630-60849F3423EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4CD432-1463-4FDB-A630-60849F3423EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC81550C-E646-4EB7-AAEE-34BA023C8F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC81550C-E646-4EB7-AAEE-34BA023C8F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC81550C-E646-4EB7-AAEE-34BA023C8F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC81550C-E646-4EB7-AAEE-34BA023C8F04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3708D344-7609-4901-9A7E-E01DF97BDD2B}
+	EndGlobalSection
+EndGlobal
